@@ -1,6 +1,6 @@
 ### Hi Developers 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-yeginwar-427520194/](https://www.linkedin.com/in/rohit-yeginwar-427520194/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-yeginwar--427520194/](https://www.linkedin.com/in/rohit-yeginwar--427520194/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Rohit-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rohit-yellow)]([(https://stackoverflow.com/users/21242697/rohit-yeginwar)](https://stackoverflow.com/users/21242697/rohit-yeginwar)-)
 

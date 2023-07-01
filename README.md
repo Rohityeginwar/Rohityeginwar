@@ -3,8 +3,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rohit-yellow)]([(https://stackoverflow.com/users/21242697/rohit-yeginwar)](https://stackoverflow.com/users/21242697/rohit-yeginwar)-)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Full Stack Developer
+The crossover between design and programming has always been of interest to me. As an aspiring  full stack developer my key objective is to create user friendly and efficient website that  are visually appealing and  easy to navigate . I will utilize my skills and potential in HTML , CSS , JAVASCRIPT to develop website that meet all requirement of client . With my full stack developer course expertise , I am confident that I can apply this skills to a web developer  role . To acquire a position  in  a fast-paced web agency and become one of the experts in web development . Wishful to utilize my ground breaking creative skills resulting  in my and the company’s growth  . I am passionate and hard working enthusiast seeking a position with a IT company to practice web development.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Rohityeginwar/count.svg)
